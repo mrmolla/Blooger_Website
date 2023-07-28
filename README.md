@@ -3,6 +3,6 @@ html/css Javascript
 
 ![Screenshot 2023-07-27 205730 (2)](https://github.com/mrmolla/Blooger_Website/assets/115748318/fcd6cf12-a268-4534-9483-02900b62be89)
 
-![Screenshot 2023-07-27 205820](https://github.com/mrmolla/Blooger_Website/assets/115748318/e1b2d940-ed97-474e-85e3-b3d8f41f3e94)
+
 
 ![Screenshot 2023-07-27 205919](https://github.com/mrmolla/Blooger_Website/assets/115748318/751cb8ab-d703-4e65-b501-a0654e285b28)
